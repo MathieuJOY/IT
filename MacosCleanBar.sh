@@ -1,3 +1,4 @@
+defaults write -g InitialKeyRepeat -int 15 && defaults write -g KeyRepeat -int 2 && defaults write -g ApplePressAndHoldEnabled -bool false
 defaults write com.apple.dock persistent-apps -array
 
 apps=(
