@@ -3,6 +3,7 @@ defaults write com.apple.dock persistent-apps -array
 
 apps=(
   "/Applications/Safari.app"
+  "/Applications/Google Chrome.app"
   "/System/Applications/System Settings.app"
   "/System/Applications/Utilities/Terminal.app"
 )
